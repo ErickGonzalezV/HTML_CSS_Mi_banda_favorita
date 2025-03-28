@@ -1,0 +1,51 @@
+html{
+    background-color: #f0dda6;
+}
+
+#titulo-index{
+    color: #eb6427;
+    text-align: center;
+    text-decoration: dashed;
+}
+
+#parrafo-index{
+    color: #eb6427;
+}
+
+#div-index{
+    background-color: #1a1623;
+}
+
+#imagen-index{
+    padding-left: 36%;
+}
+
+div{
+    background-color: #eb214e;
+}
+
+p{
+  color: #9ed99e;
+  text-align: center;  
+}
+
+li{
+    color: #9ed99e;
+    text-align: justify;
+}
+
+h5,h6{
+    color: #1a1623;
+    text-align: center;
+}
+
+a{
+    display: block;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+#opinion{
+    width: 200px;
+    height: 150px;
+}
